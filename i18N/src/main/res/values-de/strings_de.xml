@@ -1,0 +1,25 @@
+<resources>
+    <string name="short_description">Lassen Sie die Lautstärketasten die Lautstärke des Klingeltons regeln</string>
+    <string name="service_description">"Wenn dieser Dienst aktiviert ist, Ihre Lautstärke-Tasten:\n\n• den ring und Benachrichtigung Lautstärke, wenn kein sound spielt momentan\n\n• die Medien-Lautstärke, wenn jede Art von Medien zu spielen\n\n• die in-call-Volumen, wenn es einen Laufenden Anruf\n\n\n<b>Volfix hat NICHT unbedingt den text, den Sie und sammelt keine Daten von Ihrem Gerät Bildschirm.</b></string>
+    <string name="status">Status</string>
+    <string name="allow_while_do_not_disturb">Erlaubt, aber Nicht Stören wird, auf</string>
+    <string name="keep_the_ads_away">Halten Sie die anzeigen Weg und unterstützen Sie uns mit:</string>
+    <string name="support_the_development">Unterstützung der Entwicklung dieser app mit:</string>
+    <string name="description_label">Beschreibung</string>
+    <string name="tap_to_enable">Tippen Sie auf, um diesen Dienst zu aktivieren in den Einstellungen</string>
+    <string name="invite_friends"><u>Freunde Einladen</u></string>
+    <string name="not_now">Nicht jetzt</string>
+    <string name="agree">Zustimmen</string>
+    <string name="prominent_disclosure_consent_title">Barrierefreiheitsdienst aktivieren</string>
+    <string name="prominent_disclosure_consent_message">Volfix muss als Bedienungshilfen aktiviert sein, um auf Ereignisse beim Drücken der Lautstärketaste zu hören und die Tasten die Klingel- und Benachrichtigungslautstärke anstelle der Medienlautstärke steuern zu lassen.\n\nAuch wenn Sie gewarnt werden, dass die App dies tun kann Lesen Sie Ihren Bildschirminhalt, Volfix beachtet den von Ihnen eingegebenen Text nicht und sammelt keine Informationen von Ihrem Gerätebildschirm.\n\nWenn Sie zustimmen, werden Sie zu den Eingabehilfen-Einstellungen weitergeleitet, wo Sie Volfix finden und aktivieren müssen.</string>
+    <string name="full_description">Android 9 hat unseren Geräten viele neue Funktionen gebracht, aber gleichzeitig einen nervigen Nachteil mit sich gebracht: Die Lautstärketasten steuern ständig die Medienlautstärke und wir müssen mehrere Schritte ausführen, um den Klingelton und die Benachrichtigungslautstärke zu ändern.\n \nEs gibt jetzt eine Lösung für dieses Problem und es heißt Volfix.\n\nWenn Volfix aktiviert ist, steuern die Lautstärketasten Ihres Geräts standardmäßig den Klingelton und die Benachrichtigungslautstärke. Es regelt die Medienlautstärke, während Sie jede Art von Geräuschen hören, und es steuert die Lautstärke von "In Anruf" während eines laufenden Anrufs.\n\nVolfix muss als Bedienungshilfen aktiviert sein, um auf die Lautstärke zu hören Tastendruckereignisse und die Tasten so zuordnen, dass sie die Klingel- und Benachrichtigungslautstärke anstelle der Medienlautstärke steuern.\n\nBitte beachten Sie, dass Volfix derzeit nur bei eingeschaltetem Bildschirm funktioniert.</string>
+    <string name="excluded_apps">Ausgeschlossene Apps</string>
+    <string name="already_donated"><u>Ich habe bereits gespendet</u></string>
+    <string name="reject_donation"><u>Ich möchte nicht spenden</u></string>
+    <string name="consider_donating">Alle installierten Apps werden hier angezeigt, aber bitte erwägen Sie vorher eine Spende, um dieses Projekt am Leben zu erhalten.</string>
+    <string name="volfix_disabled_for_apps">Volfix ist deaktiviert, während die folgenden Apps geöffnet sind:</string>
+    <string name="installed_apps">Installierte Apps:</string>
+    <string name="info">Die Info</string>
+    <string name="excluded_apps_info">Verwenden Sie diese Option, um den Volfix-Dienst zu deaktivieren, während eine der ausgewählten Apps sichtbar ist.\n\nIn einigen Apps möchten Sie möglicherweise die Lautstärketasten so verwenden, wie sie vorgesehen sind. In der Kamera-App verwenden Sie beispielsweise die Lautstärketasten, um den Kamerazoom zu steuern, und Sie möchten nicht, dass Volfix eingreift.</string>
+    <string name="app_recommendation">Ich verwende diese App, um die Lautstärke von Klingeltönen und Benachrichtigungen anzupassen, daher empfehle ich sie Ihnen: %1$s</string>
+</resources>

@@ -1,0 +1,25 @@
+<resources>
+    <string name="short_description">Utilizați butoanele de volum pentru a controla volumul tonului de apel</string>
+    <string name="service_description">"Atunci când acest serviciu este activat, butoanele de volum vor controla:\n\n• volumul tonului de apel și al notificărilor atunci când nu există sunet în derulare\n\n• volumul media atunci când există sunete în derulare\n\n• volumul din timpul unui apel, când există un apel în desfășurare\n\n\n<b>Volfix NU citește textul pe care îl tastați și nu colectează informații de pe ecranul dispozitivului.</b></string>
+    <string name="status">Stare</string>
+    <string name="allow_while_do_not_disturb">Funcționează în timpul "Nu Deranja"</string>
+    <string name="keep_the_ads_away">Păstrați anunțurile departe și susțineți dezvoltarea cu:</string>
+    <string name="support_the_development">Sprijiniți dezvoltarea acestei aplicații cu:</string>
+    <string name="description_label">Descriere</string>
+    <string name="tap_to_enable">Atingeți pentru a activa acest serviciu în Setări</string>
+    <string name="invite_friends"><u>Invita-ti prietenii</u></string>
+    <string name="not_now">Nu acum</string>
+    <string name="agree">De acord</string>
+    <string name="prominent_disclosure_consent_title">Activați serviciul de accesibilitate</string>
+    <string name="prominent_disclosure_consent_message">Volfix trebuie să fie activat ca serviciu de accesibilitate pentru a asculta evenimentele de apăsare a butonului de volum și pentru a face ca butoanele să controleze volumul soneriei și notificărilor în loc de volumul media.\n\nChiar dacă veți fi avertizat că aplicația va putea citiți conținutul ecranului dvs., Volfix nu observă textul pe care îl introduceți și nu colectează nicio informație de pe ecranul dispozitivului dvs.\n\nDacă sunteți de acord, veți fi direcționat la Setările de accesibilitate unde va trebui să găsiți Volfix și să îl activați.</string>
+    <string name="full_description">Android 9 a adus o mulțime de funcții noi pe dispozitivele noastre, dar, în același timp, a adus un dezavantaj enervant: butoanele de volum controlează volumul media tot timpul și trebuie să facem mai mulți pași pentru a schimba tonul de apel și volumul notificărilor.\n \nAcum există o remediere a acestei probleme și se numește Volfix.\n\nCând Volfix este activat, butoanele de volum ale dispozitivului dvs. vor controla tonul de apel și volumul notificărilor în mod implicit. Acesta va controla volumul media în timp ce ascultați orice fel de sunete și va controla volumul „în apel” în timp ce există un apel în curs.\n\nVolfix trebuie să fie activat ca serviciu de accesibilitate pentru a asculta volumul evenimente de apăsare a butoanelor și pentru a mapa butoanele pentru a controla volumul soneriei și notificărilor în loc de volumul media.\n\nRețineți că în acest moment Volfix funcționează numai când ecranul este pornit.</string>
+    <string name="excluded_apps">Aplicații excluse</string>
+    <string name="already_donated"><u>Am donat deja</u></string>
+    <string name="reject_donation"><u>Nu vreau să donez</u></string>
+    <string name="consider_donating">Toate aplicațiile instalate vor apărea aici, dar înainte de aceasta, vă rugăm să ne oferiți o donație pentru a menține acest proiect în viață.</string>
+    <string name="volfix_disabled_for_apps">Volfix este dezactivat în timp ce următoarele aplicații sunt deschise:</string>
+    <string name="installed_apps">Aplicații instalate:</string>
+    <string name="info">Info</string>
+    <string name="excluded_apps_info">Utilizați această opțiune pentru a dezactiva serviciul Volfix în timp ce oricare dintre aplicațiile selectate este vizibilă.\n\nÎn unele aplicații, este posibil să doriți să utilizați butoanele de volum așa cum sunt destinate. De exemplu, în aplicația Cameră, veți folosi butoanele de volum pentru a controla zoomul camerei și nu doriți ca Volfix să interfereze.</string>
+    <string name="app_recommendation">Folosesc această aplicație pentru a regla volumul tonului de apel și al notificărilor, așa că ți-o recomand: %1$s</string>
+</resources>

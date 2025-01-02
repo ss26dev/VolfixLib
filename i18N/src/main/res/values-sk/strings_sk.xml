@@ -1,0 +1,25 @@
+<resources>
+    <string name="short_description">Pomocou tlačidiel hlasitosti na ovládanie zvonenie a oznámenia objem</string>
+    <string name="service_description">"Keď je táto služba aktivovaná, váš tlačidlá ovládania hlasitosti bude kontrolovať:\n\n• krúžok a oznámenia hlasitosť pri žiadny zvuk je v súčasnej dobe hrá\n\n• bude hlasitosť médií pri akejkoľvek médiá sa prehráva\n\n• v hlasitosti hovoru, keď je prebiehajúceho hovoru\n\n\n<b>Volfix nedodrží text zadávaný a nezhromažďuje žiadne informácie z telefónu na obrazovke.</b></string>
+    <string name="status">Stav</string>
+    <string name="allow_while_do_not_disturb">Povolené zatiaľ čo nerušiť je na</string>
+    <string name="keep_the_ads_away">Udržať reklamy preč a podporujú nás:</string>
+    <string name="support_the_development">Podporiť rozvoj tejto aplikácie s:</string>
+    <string name="description_label">Popis</string>
+    <string name="tap_to_enable">Klepnite na, ak chcete povoliť túto službu v Nastavenia</string>
+    <string name="invite_friends"><u>Pozvať priateľov</u></string>
+    <string name="not_now">Teraz nie</string>
+    <string name="agree">súhlas</string>
+    <string name="prominent_disclosure_consent_title">Povoliť službu dostupnosti</string>
+    <string name="prominent_disclosure_consent_message">Volfix vyžaduje, aby bol povolený ako služba dostupnosti, aby bolo možné počúvať udalosti stlačenia tlačidla hlasitosti a aby tlačidlá ovládali hlasitosť zvonenia a upozornení namiesto hlasitosti médií.\n\nAj keď budete upozornení, že aplikácia bude môcť čítať obsah obrazovky, Volfix nesleduje text, ktorý píšete, a nezhromažďuje žiadne informácie z obrazovky vášho zariadenia.\n\nAk súhlasíte, dostanete sa do Nastavenia prístupnosti, kde budete musieť nájsť Volfix a povoliť ho.</string>
+    <string name="full_description">Android 9 priniesol do našich zariadení množstvo nových funkcií, no zároveň priniesol nepríjemnú nevýhodu: Tlačidlá hlasitosti neustále ovládajú hlasitosť médií a na zmenu vyzváňacieho tónu a hlasitosti upozornení musíme vykonať viacero krokov.\n \nTeraz existuje oprava tohto problému a volá sa Volfix.\n\nKeď je Volfix povolený, tlačidlá hlasitosti na vašom zariadení budú predvolene ovládať tón zvonenia a hlasitosť upozornení. Bude ovládať hlasitosť médií, keď počúvate akýkoľvek druh zvukov, a bude ovládať hlasitosť hovoru počas prebiehajúceho hovoru.\n\nVolfix vyžaduje, aby bol povolený ako služba dostupnosti, aby bolo možné počúvať hlasitosť stlačte tlačidlo udalosti a na mapovanie tlačidiel na ovládanie hlasitosti zvonenia a upozornení namiesto hlasitosti médií.\n\nUpozorňujeme, že v súčasnosti Volfix funguje iba vtedy, keď je obrazovka zapnutá.</string>
+    <string name="excluded_apps">Vylúčené aplikácie</string>
+    <string name="already_donated"><u>Už som daroval</u></string>
+    <string name="reject_donation"><u>Nechcem darovať</u></string>
+    <string name="consider_donating">Všetky nainštalované aplikácie sa zobrazia tu, ale predtým, prosím, zvážte, či nám neponúknete dar na udržanie tohto projektu pri živote.</string>
+    <string name="volfix_disabled_for_apps">Volfix je vypnutý, keď sú otvorené nasledujúce aplikácie:</string>
+    <string name="installed_apps">Nainštalované aplikácie:</string>
+    <string name="info">Info</string>
+    <string name="excluded_apps_info">Pomocou tejto možnosti zakážete službu Volfix, keď je viditeľná ktorákoľvek z vybratých aplikácií.\n\nV niektorých aplikáciách možno budete chcieť použiť tlačidlá hlasitosti tak, ako sú určené. Napríklad v aplikácii Fotoaparát budete používať tlačidlá hlasitosti na ovládanie priblíženia fotoaparátu a nechcete, aby vám Volfix zasahoval.</string>
+    <string name="app_recommendation">Túto aplikáciu používam na úpravu hlasitosti vyzváňacieho tónu a upozornení, preto vám ju odporúčam: %1$s</string>
+</resources>

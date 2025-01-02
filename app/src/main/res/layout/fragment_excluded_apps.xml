@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <data>
+
+        <import type="android.view.View" />
+
+        <import type="androidx.core.content.ContextCompat" />
+
+        <variable
+            name="viewmodel"
+            type="com.softstackdev.volumeFix.ui.apps.AppsViewModel" />
+
+    </data>
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <TextView
+            android:id="@+id/volfixDisabledForAppsTextView"
+            style="@style/appTitle"
+            android:text="@string/volfix_disabled_for_apps"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <include
+            android:id="@+id/excludedAppsGridView"
+            layout="@layout/content_apps_grid"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:layout_marginTop="@dimen/space_between_content_areas"
+            app:layoutManager="androidx.recyclerview.widget.GridLayoutManager"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/volfixDisabledForAppsTextView"
+            app:viewModel="@{viewmodel}" />
+
+        <TextView
+            android:id="@+id/allAppstitleTextView"
+            style="@style/appTitle"
+            android:text="@string/installed_apps"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/excludedAppsGridView" />
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</layout>

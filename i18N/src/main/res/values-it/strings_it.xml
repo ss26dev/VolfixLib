@@ -1,0 +1,25 @@
+<resources>
+    <string name="short_description">Utilizzare i pulsanti del volume per controllare il volume della suoneria</string>
+    <string name="service_description">"Quando questo servizio è attivato, il vostro pulsanti del volume di controllo:\n\n• l'anello di notifica e di volume quando l'audio non è attualmente in riproduzione\n\n• il volume dei media quando qualsiasi tipo di supporti di riproduzione\n\n• il volume quando c'è una chiamata in corso\n\n\n<b>Volfix NON osservare il testo digitato e non raccoglie informazioni dal vostro schermo del dispositivo.</b></string>
+    <string name="status">Stato</string>
+    <string name="allow_while_do_not_disturb">Consentita, mentre Non Disturbare, su</string>
+    <string name="keep_the_ads_away">Tenere gli annunci di distanza e ci supportano con:</string>
+    <string name="support_the_development">Sostenere lo sviluppo di questa app con:</string>
+    <string name="description_label">Descrizione</string>
+    <string name="tap_to_enable">Toccare per attivare questo servizio in Impostazioni</string>
+    <string name="invite_friends"><u>Invita gli amici</u></string>
+    <string name="not_now">Non adesso</string>
+    <string name="agree">Concordare</string>
+    <string name="prominent_disclosure_consent_title">Abilita il servizio di accessibilità</string>
+    <string name="prominent_disclosure_consent_message">Volfix richiede di essere abilitato come servizio di accessibilità per ascoltare gli eventi di pressione del pulsante del volume e per fare in modo che i pulsanti controllino il volume della suoneria e delle notifiche anziché il volume dei media.\n\nAnche se verrai avvisato che l\'app sarà in grado di legge il contenuto dello schermo, Volfix non osserva il testo digitato e non raccoglie alcuna informazione dallo schermo del dispositivo.\n\nSe accetti, verrai indirizzato alle Impostazioni di accessibilità dove dovrai trovare Volfix e abilitarlo.</string>
+    <string name="full_description">Android 9 ha apportato molte nuove funzionalità ai nostri dispositivi, ma allo stesso tempo ha comportato un fastidioso inconveniente: i pulsanti del volume controllano sempre il volume multimediale e dobbiamo eseguire più passaggi per modificare il volume della suoneria e delle notifiche.\n \nOra c\'è una soluzione a questo problema e si chiama Volfix.\n\nQuando Volfix è abilitato, i pulsanti del volume del tuo dispositivo controlleranno il volume della suoneria e delle notifiche per impostazione predefinita. Controllerà il volume dei media mentre ascolti qualsiasi tipo di suono e controllerà il volume "in chiamata" mentre c\'è una chiamata in corso.\n\nVolfix deve essere abilitato come servizio di accessibilità per poter ascoltare il volume premere il pulsante eventi e per mappare i pulsanti per controllare il volume della suoneria e delle notifiche invece del volume dei media.\n\nTieni presente che al momento Volfix funziona solo mentre lo schermo è acceso.</string>
+    <string name="excluded_apps">App escluse</string>
+    <string name="already_donated"><u>Ho già donato</u></string>
+    <string name="reject_donation"><u>Non voglio donare</u></string>
+    <string name="consider_donating">Tutte le app installate appariranno qui, ma prima considera di offrirci una donazione per mantenere vivo questo progetto.</string>
+    <string name="volfix_disabled_for_apps">Volfix è disabilitato mentre sono aperte le seguenti app:</string>
+    <string name="installed_apps">App installate:</string>
+    <string name="info">Informazioni</string>
+    <string name="excluded_apps_info">Usa questa opzione per disabilitare il servizio Volfix mentre una qualsiasi delle app selezionate è visibile.\n\nIn alcune app, potresti voler utilizzare i pulsanti del volume come previsto. Ad esempio, nell\'app Fotocamera, utilizzerai i pulsanti del volume per controllare lo zoom della fotocamera e non vuoi che Volfix interferisca.</string>
+    <string name="app_recommendation">Uso questa app per regolare il volume della suoneria e delle notifiche quindi te la consiglio: %1$s</string>
+</resources>

@@ -1,0 +1,25 @@
+<resources>
+    <string name="short_description">Zil sesi ve bildirim ses kontrolü için ses düğmeleri kullanın </string>
+    <string name="service_description">"Bu hizmeti etkinleştirildiğinde, ses seviyesi düğmeleri kontrol: ses yok şu anda herhangi bir medyaya sürekli Ara\n\n\n<b>Bir Volfix zaman içinde-ara birimi yazdığınız metin gözlemek ve cihazınızın ekranında herhangi bir bilgi toplamaz•\n\n çalarken• medya ses\n\n yürütürken\n\n zil ve bildirim birimi•.</b></string>
+    <string name="status">Durumu</string>
+    <string name="allow_while_do_not_disturb">Çalışırken Rahatsız etmeyin izin verilir</string>
+    <string name="keep_the_ads_away">Reklamlar uzak tutmak ve bize destek:</string>
+    <string name="support_the_development">Bu app gelişimini desteklemek:</string>
+    <string name="description_label">Açıklama</string>
+    <string name="tap_to_enable">Ayarları bu hizmeti etkinleştirmek için dokunun </string>
+    <string name="invite_friends"><u>arkadaşlarını Davet et</u></string>
+    <string name="not_now">Şimdi değil</string>
+    <string name="agree">Kabul etmek</string>
+    <string name="prominent_disclosure_consent_title">Erişilebilirlik hizmetini etkinleştir</string>
+    <string name="prominent_disclosure_consent_message">Ses düzeyi düğmesine basma olaylarını dinlemek ve düğmelerin medya ses düzeyi yerine zili ve bildirim ses düzeyini kontrol etmesini sağlamak için bir erişilebilirlik hizmeti olarak Volfix\'in etkinleştirilmesi gerekir.\n\nUygulamanın, ekran içeriğinizi okuyun, Volfix yazdığınız metni gözlemlemez ve cihazınızın ekranından herhangi bir bilgi toplamaz.\n\nKabul ederseniz, Volfix\'i bulmanız ve etkinleştirmeniz gereken Erişilebilirlik Ayarlarına yönlendirilirsiniz.</string>
+    <string name="full_description">Android 9, cihazlarımıza pek çok yeni özellik getirdi ancak aynı zamanda can sıkıcı bir dezavantajı da beraberinde getirdi: Ses düğmeleri medya ses düzeyini her zaman kontrol ediyor ve zil sesi ve bildirim ses düzeyini değiştirmek için birden fazla adım gerçekleştirmemiz gerekiyor.\n \nArtık bu soruna bir çözüm var ve adı Volfix.\n\nVolfix etkinleştirildiğinde, cihazınızın ses düğmeleri varsayılan olarak zil sesini ve bildirim ses düzeyini kontrol edecek. Siz herhangi bir sesi dinlerken medya ses seviyesini kontrol edecek ve devam eden bir arama varken "çağrı sırasında" ses seviyesini kontrol edecektir.\n\nVolfix\'in ses seviyesini dinlemek için bir erişilebilirlik hizmeti olarak etkinleştirilmesi gerekir. düğmesine basın olaylar ve medya ses düzeyi yerine zil sesi ve bildirim ses düzeyini kontrol etmek için düğmeleri eşlemek için.\n\nLütfen şu anda Volfix\'in yalnızca ekran açıkken çalıştığını unutmayın.</string>
+    <string name="excluded_apps">Hariç Tutulan Uygulamalar</string>
+    <string name="already_donated"><u>Zaten bağış yaptım</u></string>
+    <string name="reject_donation"><u>Bağış yapmak istemiyorum</u></string>
+    <string name="consider_donating">Yüklü tüm uygulamalar burada görünecek, ancak ondan önce, lütfen bu projeyi canlı tutmak için bize bağışta bulunmayı düşünün.</string>
+    <string name="volfix_disabled_for_apps">Aşağıdaki uygulamalar açıkken Volfix devre dışı bırakılır:</string>
+    <string name="installed_apps">Yüklü uygulamalar:</string>
+    <string name="info">Bilgi</string>
+    <string name="excluded_apps_info">Seçilen uygulamalardan herhangi biri görünür durumdayken Volfix hizmetini devre dışı bırakmak için bu seçeneği kullanın.\n\nBazı uygulamalarda ses düğmelerini olması gerektiği gibi kullanmak isteyebilirsiniz. Örneğin Kamera uygulamasında, kamera yakınlaştırmasını kontrol etmek için ses düğmelerini kullanacaksınız ve Volfix\'in müdahale etmesini istemiyorsunuz.</string>
+    <string name="app_recommendation">Zil sesini ve bildirimleri ayarlamak için bu uygulamayı kullanıyorum, bu yüzden size tavsiye ediyorum: %1$s</string>
+</resources>

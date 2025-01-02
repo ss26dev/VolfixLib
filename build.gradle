@@ -1,0 +1,29 @@
+buildscript {
+    ext {
+        kotlin_version = '1.9.21'
+        version_sdk = 35
+    }
+
+    repositories {
+        google()
+        mavenCentral()
+        maven { url 'https://jitpack.io' }
+    }
+    dependencies {
+        classpath 'com.android.tools.build:gradle:8.7.3'
+        classpath "org.jetbrains.kotlin:kotlin-gradle-plugin:$kotlin_version"
+    }
+}
+
+allprojects {
+    repositories {
+        google()
+        mavenCentral()
+        // jitpack is used for our own libs distribution (like GoogleBillingApi hosted on Github)
+        maven { url 'https://jitpack.io' }
+    }
+}
+
+tasks.register('clean', Delete) {
+    delete rootProject.getLayout().getBuildDirectory()
+}

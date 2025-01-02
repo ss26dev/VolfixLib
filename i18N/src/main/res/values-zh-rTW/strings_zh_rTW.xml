@@ -1,0 +1,25 @@
+<resources>
+    <string name="short_description">使用音量按钮来控制的铃声和通知量</string>
+    <string name="service_description">"当这项服务是启用你的音量按钮将控制:\n\n•环，并通知时没有声音是目前打\n\n•媒体积当的任何种类的媒体播放\n\n•在呼叫卷时，有一个正在进行的呼叫\n\n\n<b>Volfix不遵守的文本类型，并不收集任何信息从你的手机屏幕。</b>"</string>
+    <string name="status">状态</string>
+    <string name="allow_while_do_not_disturb">允许的话，不要打扰在</string>
+    <string name="keep_the_ads_away">保持的广告里和支持我们的:</string>
+    <string name="support_the_development">支持发展这个程序：</string>
+    <string name="description_label">描述</string>
+    <string name="tap_to_enable">点击使这一服务设置</string>
+    <string name="invite_friends"><u>邀请朋友</u></string>
+    <string name="not_now">现在不要</string>
+    <string name="agree">同意</string>
+    <string name="prominent_disclosure_consent_title">启用无障碍服务</string>
+    <string name="prominent_disclosure_consent_message">Volfix 需要作为无障碍服务启用才能侦听音量按钮按下事件并使按钮控制响铃和通知音量而不是媒体音量。\n\n即使您将被警告该应用程序将能够阅读您的屏幕内容，Volfix 不会观察您键入的文本，也不会从您的设备屏幕收集任何信息。\n\n如果您同意，您将被带到辅助功能设置，您必须在其中找到 Volfix 并启用它。</string>
+    <string name="full_description">Android 9 为我们的设备带来了很多新功能，但同时也带来了一个恼人的缺点：音量按钮一直控制媒体音量，我们必须执行多个步骤来更改铃声和通知音量。\n \n现在有一个解决这个问题的方法，它被称为 Volfix。\n\n启用 Volfix 后，您设备的音量按钮将默认控制铃声和通知音量。它会在您收听任何类型的声音时控制媒体音量，并在正在进行通话时控制“通话”音量。\n\nVolfix 需要启用为无障碍服务才能收听音量按钮按下事件并映射按钮以控制响铃和通知音量而不是媒体音量。\n\n请注意，目前 Volfix 仅在屏幕打开时有效。</string>
+    <string name="excluded_apps">排除的应用程序</string>
+    <string name="already_donated"><u>我已经捐了</u></string>
+    <string name="reject_donation"><u>我不想捐赠</u></string>
+    <string name="consider_donating">所有已安装的应用程序都会出现在这里，但在此之前，请考虑向我们捐款以保持该项目的活力。</string>
+    <string name="volfix_disabled_for_apps">打开以下应用程序时禁用 Volfix：</string>
+    <string name="installed_apps">安装的应用程序：</string>
+    <string name="info">信息</string>
+    <string name="excluded_apps_info">使用此选项可在任何选定应用可见时禁用 Volfix 服务。\n\n在某些应用中，您可能希望按预期使用音量按钮。例如在相机应用程序中，您将使用音量按钮来控制相机变焦并且您不希望 Volfix 干扰。</string>
+    <string name="app_recommendation">我用这个应用程序来调整铃声和通知的音量，所以我推荐给你：%1$s</string>
+</resources>

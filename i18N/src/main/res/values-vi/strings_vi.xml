@@ -1,0 +1,25 @@
+<resources>
+    <string name="short_description">Sử dụng các khối lượng nút để điều khiển chuông và khối lượng thông báo</string>
+    <string name="service_description">"Khi vụ này được kích hoạt, khối lượng của bạn nút sẽ kiểm soát: đồng n• chiếc nhẫn và thông báo về khối lượng khi không có âm thanh đang chơi đồng n• các phương tiện truyền thông lượng khi bất kỳ loại phương tiện truyền thông đang phát đồng n• âm lượng trong cuộc gọi khi có một cuộc gọi đồng n n<b>Volfix KHÔNG quan sát nhập, và không thu thập mọi thông tin từ điện thoại màn hình.</b></string>
+    <string name="status">Tình trạng</string>
+    <string name="allow_while_do_not_disturb">Cho phép trong khi Không Làm Phiền được vào</string>
+    <string name="keep_the_ads_away">Giữ quảng cáo đi và hỗ trợ chúng ta:</string>
+    <string name="support_the_development">Hỗ trợ sự phát triển của các ứng dụng này:</string>
+    <string name="description_label">Mô tả</string>
+    <string name="tap_to_enable">Bấm kích hoạt này phục vụ trong Cài đặt</string>
+    <string name="invite_friends"><u>Mời bạn bè</u></string>
+    <string name="not_now">Không phải bây giờ</string>
+    <string name="agree">Đồng ý</string>
+    <string name="prominent_disclosure_consent_title">Bật dịch vụ trợ năng</string>
+    <string name="prominent_disclosure_consent_message">Volfix yêu cầu được bật như một dịch vụ trợ năng để lắng nghe các sự kiện nhấn nút âm lượng và để đặt các nút điều khiển chuông và âm lượng thông báo thay vì âm lượng phương tiện. \ N \ nMặc dù bạn sẽ được cảnh báo rằng ứng dụng sẽ có thể đọc nội dung màn hình của bạn, Volfix không quan sát văn bản bạn nhập và không thu thập bất kỳ thông tin nào từ màn hình thiết bị của bạn. \ n \ nNếu bạn đồng ý, bạn sẽ được đưa đến Cài đặt trợ năng, nơi bạn sẽ phải tìm Volfix và kích hoạt nó.</string>
+    <string name="full_description">Android 9 đã mang đến rất nhiều tính năng mới cho thiết bị của chúng tôi nhưng đồng thời, nó cũng mang đến một nhược điểm khó chịu: Các nút âm lượng luôn kiểm soát âm lượng phương tiện và chúng tôi phải thực hiện nhiều bước để thay đổi nhạc chuông và âm lượng thông báo. \ N \ nHiện đã có một bản sửa lỗi cho sự cố này và nó được gọi là Volfix. \ n \ nKhi bật Volfix, các nút âm lượng trên thiết bị của bạn sẽ điều khiển nhạc chuông và âm lượng thông báo theo mặc định. Nó sẽ kiểm soát âm lượng phương tiện khi bạn đang nghe bất kỳ loại âm thanh nào và nó sẽ điều khiển âm lượng "đang gọi" khi có cuộc gọi đang diễn ra. \ N \ nVolfix yêu cầu được bật như một dịch vụ trợ năng để nghe âm lượng các sự kiện nhấn nút và để ánh xạ các nút để điều khiển chuông và âm lượng thông báo thay vì âm lượng phương tiện. \ n \ nXin lưu ý rằng hiện tại Volfix chỉ hoạt động khi màn hình đang bật.</string>
+    <string name="excluded_apps">Ứng dụng bị loại trừ</string>
+    <string name="already_donated"><u>Tôi đã quyên góp rồi</u></string>
+    <string name="reject_donation"><u>Tôi không muốn quyên góp</u></string>
+    <string name="consider_donating">Tất cả các ứng dụng đã cài đặt sẽ xuất hiện ở đây nhưng trước đó, vui lòng xem xét việc đóng góp cho chúng tôi để duy trì dự án này.</string>
+    <string name="volfix_disabled_for_apps">Volfix bị tắt khi các ứng dụng sau đang mở:</string>
+    <string name="installed_apps">Các ứng dụng đã cài đặt:</string>
+    <string name="info">Thông tin</string>
+    <string name="excluded_apps_info">Sử dụng tùy chọn này để tắt dịch vụ Volfix trong khi bất kỳ ứng dụng nào được chọn hiển thị.\n\nTrong một số ứng dụng, bạn có thể muốn sử dụng các nút âm lượng theo ý muốn. Ví dụ: trong ứng dụng Máy ảnh, bạn sẽ sử dụng các nút âm lượng để điều khiển mức thu phóng của máy ảnh và bạn không muốn Volfix can thiệp.</string>
+    <string name="app_recommendation">Tôi sử dụng ứng dụng này để điều chỉnh âm lượng của nhạc chuông và thông báo nên tôi giới thiệu nó cho bạn: %1$s</string>
+</resources>

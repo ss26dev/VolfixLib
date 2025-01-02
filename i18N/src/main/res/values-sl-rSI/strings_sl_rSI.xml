@@ -1,0 +1,25 @@
+<resources>
+    <string name="short_description">Uporabite tipki za glasnost za nadzor ton zvonjenja in obvestila glasnosti</string>
+    <string name="service_description">"Ko je ta storitev je omogočeno, se bodo vaši gumbi za glasnost bo nadzor:\n\n• obroča in obvestila glasnost, ko ni zvoka, ki se trenutno predvaja\n\n• glasnost predstavnosti ko vse vrste medijev je igranje\n\n• med klicem glasnost, medtem ko je vzpostavljen klic\n\n\n<b>Volfix NE opazujejo besedilo, ki ga vnesete, in ne zbira vse informacije, ki iz zaslonu naprave.</b>"</string>
+    <string name="status">Stanje</string>
+    <string name="allow_while_do_not_disturb">Dovoljeno pa Ne Moti, je na</string>
+    <string name="keep_the_ads_away">Hranite oglasi stran in nas podpirajo s:</string>
+    <string name="support_the_development">Podpirajo razvoj te aplikacije z:</string>
+    <string name="description_label">Opis</string>
+    <string name="tap_to_enable">Tapnite, da omogoči to storitev v Nastavitve</string>
+    <string name="invite_friends"><u>Povabi prijatelje</u></string>
+    <string name="not_now">Ne zdaj</string>
+    <string name="agree">strinjam se</string>
+    <string name="prominent_disclosure_consent_title">Omogoči storitev za ljudi s posebnimi potrebami</string>
+    <string name="prominent_disclosure_consent_message">Volfix mora biti omogočen kot storitev za ljudi s posebnimi potrebami, da lahko poslušate dogodke pritiska na gumb za glasnost in da gumbi nadzorujejo glasnost zvonjenja in obvestil namesto glasnosti medijev.\n\nČeprav boste opozorjeni, da bo aplikacija lahko bere vsebino vašega zaslona, ​​Volfix ne opazi besedila, ki ga vnesete, in ne zbira nobenih informacij z zaslona vaše naprave.\n\nČe se strinjate, boste preusmerjeni v nastavitve dostopnosti, kjer boste morali najti Volfix in ga omogočiti.</string>
+    <string name="full_description">Android 9 je našim napravam prinesel veliko novih funkcij, hkrati pa je prinesel nadležno pomanjkljivost: gumbi za glasnost ves čas nadzorujejo glasnost predstavnosti in moramo izvesti več korakov, da spremenimo melodijo zvonjenja in glasnost obvestil.\n \nTa težava je zdaj odpravljena in se imenuje Volfix.\n\nKo je Volfix omogočen, bodo gumbi za glasnost vaše naprave privzeto nadzorovali melodijo zvonjenja in glasnost obvestil. Nadzoroval bo glasnost predstavnosti, medtem ko poslušate kakršne koli zvoke, in bo nadzoroval glasnost "v klicu", medtem ko je klic v teku.\n\nVolfix mora biti omogočen kot storitev za ljudi s posebnimi potrebami, da lahko posluša glasnost pritisnite gumbe za dogodke in za preslikavo gumbov za nadzor zvonjenja in glasnosti obvestil namesto glasnosti medijev.\n\nUpoštevajte, da trenutno Volfix deluje samo, ko je zaslon vklopljen.</string>
+    <string name="excluded_apps">Izključene aplikacije</string>
+    <string name="already_donated"><u>Doniral sem že</u></string>
+    <string name="reject_donation"><u>Ne želim donirati</u></string>
+    <string name="consider_donating">Vse nameščene aplikacije bodo prikazane tukaj, vendar pred tem prosimo, da nam ponudite donacijo za ohranitev tega projekta.</string>
+    <string name="volfix_disabled_for_apps">Volfix je onemogočen, ko so odprte naslednje aplikacije:</string>
+    <string name="installed_apps">Nameščene aplikacije:</string>
+    <string name="info">Informacije</string>
+    <string name="excluded_apps_info">S to možnostjo onemogočite storitev Volfix, medtem ko je katera koli od izbranih aplikacij vidna.\n\nV nekaterih aplikacijah boste morda želeli uporabiti gumbe za glasnost, kot so predvideni. V aplikaciji Camera boste na primer uporabljali gumbe za glasnost za nadzor povečave kamere in ne želite, da se Volfix vmešava.</string>
+    <string name="app_recommendation">To aplikacijo uporabljam za prilagajanje glasnosti zvonjenja in obvestil, zato jo priporočam tudi vam: %1$s</string>
+</resources>

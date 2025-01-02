@@ -1,0 +1,25 @@
+<resources>
+    <string name="short_description">Utilisez les boutons de volume pour contrôler le volume de la sonnerie</string>
+    <string name="service_description">"Lorsque ce service est activé, vos boutons de volume de contrôle:\n\n• le volume de sonnerie et de notification lorsqu\'aucun son n\'est actuellement de jouer\n\n• le volume de support quand tout type de média est en cours de lecture\n\n• le volume de l\'appel lorsqu\'il y a un appel en cours\n\n\n<b>Volfix ne respecte PAS le texte que vous tapez, et ne collecte aucune information à partir de l\'écran de votre appareil.</b></string>
+    <string name="status">Statut</string>
+    <string name="allow_while_do_not_disturb">Permis de tout en Ne Pas Déranger est activée</string>
+    <string name="keep_the_ads_away">Gardez les annonces de loin et de nous soutenir avec:</string>
+    <string name="support_the_development">Soutenir le développement de cette application avec:</string>
+    <string name="description_label">Description</string>
+    <string name="tap_to_enable">Appuyez sur pour activer ce service dans les Paramètres</string>
+    <string name="invite_friends"><u>Inviter des amis</u></string>
+    <string name="not_now">Pas maintenant</string>
+    <string name="agree">Se mettre d\'accord</string>
+    <string name="prominent_disclosure_consent_title">Activer le service d\'accessibilité</string>
+    <string name="prominent_disclosure_consent_message">Volfix doit être activé en tant que service d\'accessibilité afin d\'écouter les événements de pression sur les boutons de volume et de faire en sorte que les boutons contrôlent le volume de la sonnerie et des notifications au lieu du volume des médias.\n\nMême si vous serez averti que l\'application pourra lisez le contenu de votre écran, Volfix n\'observe pas le texte que vous saisissez et ne collecte aucune information à partir de l\'écran de votre appareil.\n\nSi vous êtes d\'accord, vous serez redirigé vers les paramètres d\'accessibilité où vous devrez trouver Volfix et l\'activer.</string>
+    <string name="full_description">Android 9 a apporté de nombreuses nouvelles fonctionnalités à nos appareils, mais en même temps, il a apporté un inconvénient gênant : les boutons de volume contrôlent le volume multimédia à tout moment et nous devons effectuer plusieurs étapes pour modifier le volume de la sonnerie et des notifications.\n \nIl existe maintenant un correctif à ce problème et il s\'appelle Volfix.\n\nLorsque Volfix est activé, les boutons de volume de votre appareil contrôlent le volume de la sonnerie et des notifications par défaut. Il contrôlera le volume du média pendant que vous écoutez tout type de son et il contrôlera le volume "en appel" pendant qu\'il y a un appel en cours.\n\nVolfix doit être activé en tant que service d\'accessibilité afin d\'écouter le volume événements d\'appui sur les boutons et mapper les boutons pour contrôler le volume de la sonnerie et des notifications au lieu du volume des médias.\n\nVeuillez noter qu\'à l\'heure actuelle, Volfix ne fonctionne que lorsque l\'écran est allumé.</string>
+    <string name="excluded_apps">Applications exclues</string>
+    <string name="already_donated"><u>J\'ai déjà fait un don</u></string>
+    <string name="reject_donation"><u>Je ne veux pas faire de don</u></string>
+    <string name="consider_donating">Toutes les applications installées apparaîtront ici, mais avant cela, pensez à nous offrir un don pour maintenir ce projet en vie.</string>
+    <string name="volfix_disabled_for_apps">Volfix est désactivé lorsque les applications suivantes sont ouvertes :</string>
+    <string name="installed_apps">Applications installées :</string>
+    <string name="info">Info</string>
+    <string name="excluded_apps_info">Utilisez cette option pour désactiver le service Volfix lorsque l\'une des applications sélectionnées est visible.\n\nDans certaines applications, vous souhaiterez peut-être utiliser les boutons de volume comme prévu. Par exemple, dans l\'application Appareil photo, vous utiliserez les boutons de volume pour contrôler le zoom de l\'appareil photo et vous ne voulez pas que Volfix interfère.</string>
+    <string name="app_recommendation">J\'utilise cette application pour régler le volume de la sonnerie et des notifications donc je vous la recommande : %1$s</string>
+</resources>

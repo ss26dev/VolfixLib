@@ -1,0 +1,25 @@
+<resources>
+    <string name="short_description">Use os botões de volume para controlar o tom de toque e volume de notificação</string>
+    <string name="service_description">"Quando esse serviço é ativado, os botões de volume controlam:\n\n• o volume de toque e de notificação quando não houver som a ser reproduzido\n\n• o volume de multimédia quando qualquer tipo de multimédia é reproduzido\n\n• o volume de chamadas quando houver uma chamada em andamento" \n\n\n<b>Volfix NÃO observar o texto que você digita e não recolhe qualquer informação a partir do ecrã do seu dispositivo.</b></string>
+    <string name="status">Estado</string>
+    <string name="allow_while_do_not_disturb">Permitido enquanto Não Incomodar está ativo</string>
+    <string name="keep_the_ads_away">Mantenha os anúncios longe e nos suporte com:</string>
+    <string name="support_the_development">Apoie o desenvolvimento desta app com:</string>
+    <string name="description_label">Descrição</string>
+    <string name="tap_to_enable">Toque para activar este serviço nas Definições</string>
+    <string name="invite_friends"><u>Convidar amigos</u></string>
+    <string name="not_now">Agora não</string>
+    <string name="agree">Aceita</string>
+    <string name="prominent_disclosure_consent_title">Ativar serviço de acessibilidade</string>
+    <string name="prominent_disclosure_consent_message">Volfix precisa ser habilitado como um serviço de acessibilidade para ouvir eventos de pressionamento de botão de volume e para fazer com que os botões controlem o volume de toque e notificação em vez do volume de mídia. \ N \ nMesmo que você será avisado de que o aplicativo será capaz de ler o conteúdo da sua tela, o Volfix não observa o texto que você digita e não coleta nenhuma informação da tela do seu dispositivo. \ n \ nSe concordar, você será direcionado para as configurações de acessibilidade, onde terá que encontrar o Volfix e ativá-lo.</string>
+    <string name="full_description">O Android 9 trouxe muitos recursos novos para nossos dispositivos, mas, ao mesmo tempo, trouxe uma desvantagem irritante: os botões de volume controlam o volume da mídia o tempo todo e temos que realizar várias etapas para alterar o volume do toque e da notificação. \ N \ nAgora existe uma correção para este problema e ele é chamado de Volfix. \ n \ nQuando o Volfix está habilitado, os botões de volume do seu dispositivo irão controlar o toque e o volume da notificação por padrão. Ele controlará o volume da mídia enquanto você ouve qualquer tipo de som e controlará o volume "em chamada" enquanto houver uma chamada em andamento. \ N \ nVolfix precisa ser habilitado como um serviço de acessibilidade para ouvir o volume eventos de pressionamento de botão e mapear os botões para controlar o volume do toque e da notificação em vez do volume da mídia. \ n \ nPor favor, observe que no momento o Volfix funciona apenas enquanto a tela está ligada.</string>
+    <string name="excluded_apps">Aplicativos excluídos</string>
+    <string name="already_donated"><u>Eu já doei</u></string>
+    <string name="reject_donation"><u>Não quero doar</u></string>
+    <string name="consider_donating">Todos os aplicativos instalados aparecerão aqui, mas antes disso, considere nos oferecer uma doação para manter este projeto vivo.</string>
+    <string name="volfix_disabled_for_apps">O Volfix é desativado enquanto os seguintes aplicativos estão abertos:</string>
+    <string name="installed_apps">Aplicativos instalados:</string>
+    <string name="info">Informações</string>
+    <string name="excluded_apps_info">Use esta opção para desativar o serviço Volfix enquanto qualquer um dos aplicativos selecionados estiver visível.\n\nEm alguns aplicativos, você pode querer usar os botões de volume conforme pretendido. Por exemplo, no aplicativo Câmera, você usará os botões de volume para controlar o zoom da câmera e não deseja que o Volfix interfira.</string>
+    <string name="app_recommendation">Eu uso este aplicativo para ajustar o volume do toque e das notificações, então recomendo a você: %1$s</string>
+</resources>

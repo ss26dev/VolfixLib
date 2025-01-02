@@ -1,0 +1,25 @@
+<resources>
+    <string name="short_description">Bruk volume-knapper for å kontrollere ringetone og varslinger volum</string>
+    <string name="service_description">"Når denne tjenesten er aktivert, ditt volum-knappene vil kontroll:\n\n• ring og varsling volum når det ikke er noen lyd som spilles av for øyeblikket\n\n• media volumet når som helst form for media er det å spille\n\n• i-ringevolumet når det er en pågående samtale\n\n\n<b>Volfix IKKE følger teksten du skriver inn, og samler ikke inn informasjon fra enheten skjermen.</b>"</string>
+    <string name="status">Status</string>
+    <string name="allow_while_do_not_disturb">Tillatt når Ikke Forstyrr er på</string>
+    <string name="keep_the_ads_away">Holde annonser unna og støtte oss med:</string>
+    <string name="support_the_development">Støtte utviklingen av dette programmet med:</string>
+    <string name="description_label">Beskrivelse</string>
+    <string name="tap_to_enable">Trykk på for å aktivere denne tjenesten på Innstillinger</string>
+    <string name="invite_friends"><u>Inviter venner</u></string>
+    <string name="not_now">Ikke nå</string>
+    <string name="agree">Bli enige</string>
+    <string name="prominent_disclosure_consent_title">Aktiver tilgjengelighetstjeneste</string>
+    <string name="prominent_disclosure_consent_message">Volfix må være aktivert som en tilgjengelighetstjeneste for å lytte etter volumknapptrykk og for å få knappene til å kontrollere ringe- og varslingsvolumet i stedet for medievolum.\n\nSelv om du vil bli advart om at appen vil kunne les skjerminnholdet ditt, Volfix observerer ikke teksten du skriver og samler ikke inn informasjon fra enhetens skjerm.\n\nHvis du samtykker, vil du bli ført til tilgjengelighetsinnstillingene hvor du må finne Volfix og aktivere den.</string>
+    <string name="full_description">Android 9 brakte mange nye funksjoner til enhetene våre, men på samme tid ga den en irriterende ulempe: Volumknappene styrer medievolumet hele tiden, og vi må utføre flere trinn for å endre ringetonen og varslingsvolumet.\n \nDet er nå en løsning på dette problemet, og det kalles Volfix.\n\nNår Volfix er aktivert, vil volumknappene på enheten kontrollere ringetonen og varslingsvolumet som standard. Den vil kontrollere medievolumet mens du lytter til alle slags lyder, og den vil kontrollere volumet "i samtale" mens det er en pågående samtale.\n\nVolfix må være aktivert som en tilgjengelighetstjeneste for å lytte etter volum knappetrykkhendelser og for å kartlegge knappene for å kontrollere ringe- og varslingsvolumet i stedet for medievolum.\n\nVær oppmerksom på at for øyeblikket fungerer Volfix bare mens skjermen er på.</string>
+    <string name="excluded_apps">Ekskluderte apper</string>
+    <string name="already_donated"><u>Jeg har allerede donert</u></string>
+    <string name="reject_donation"><u>Jeg vil ikke donere</u></string>
+    <string name="consider_donating">Alle installerte apper vil vises her, men før det kan du vurdere å gi oss en donasjon for å holde dette prosjektet i live.</string>
+    <string name="volfix_disabled_for_apps">Volfix er deaktivert mens følgende apper er åpne:</string>
+    <string name="installed_apps">Installerte apper:</string>
+    <string name="info">Info</string>
+    <string name="excluded_apps_info">Bruk dette alternativet til å deaktivere Volfix-tjenesten mens noen av de valgte appene er synlige.\n\nI noen apper kan det være lurt å bruke volumknappene slik de er ment. For eksempel i Kamera-appen vil du bruke volumknappene til å kontrollere kamerazoomen, og du vil ikke at Volfix skal forstyrre.</string>
+    <string name="app_recommendation">Jeg bruker denne appen til å justere volumet på ringetone og varsler, så jeg anbefaler det til deg: %1$s</string>
+</resources>

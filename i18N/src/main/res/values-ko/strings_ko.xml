@@ -1,0 +1,25 @@
+<resources>
+    <string name="short_description">를 사용하여 볼륨을 제어하는 버튼 벨소리와 볼륨 알림</string>
+    <string name="service_description">"이 서비스가 활성화되면,버튼어:\n\n•링 및 알림을 볼륨 없는 경우 현재 재생 중인 소리\n\n•미디어 볼륨을 때 어떤 종류의 미디어 재생\n\n•에 통화량이 있을 때는 지속적인 통화\n\n\n<b>Volfix 을 준수하지 않는 텍스트를 입력하지 않는 어떤 정보를 수집 장치에서 화면입니다.</b></string>
+    <string name="status">상태</string>
+    <string name="allow_while_do_not_disturb">허용하는 동안 방해하지 않은</string>
+    <string name="keep_the_ads_away">유지하는 광고가는 곳으로 우리를 지원:</string>
+    <string name="support_the_development">의 개발을 지원합과이 응용 프로그램:</string>
+    <string name="description_label">설명</string>
+    <string name="tap_to_enable">탭을 사용하는 이 서비스에 설정</string>
+    <string name="invite_friends"><u>친구를 초대해</u></string>
+    <string name="not_now">지금은 아니다</string>
+    <string name="agree">동의하다</string>
+    <string name="prominent_disclosure_consent_title">접근성 서비스 활성화</string>
+    <string name="prominent_disclosure_consent_message">볼륨 버튼 누름 이벤트를 수신하고 버튼이 미디어 볼륨 대신 벨소리 및 알림 볼륨을 제어하도록 하려면 Volfix를 접근성 서비스로 활성화해야 합니다.\n\n앱에서 다음을 수행할 수 있다는 경고가 표시되지만 화면 내용을 읽을 때 Volfix는 사용자가 입력한 텍스트를 관찰하지 않으며 장치 화면에서 정보를 수집하지 않습니다.\n\n동의하면 접근성 설정으로 이동하여 Volfix를 찾아 활성화해야 합니다.</string>
+    <string name="full_description">Android 9는 기기에 많은 새로운 기능을 가져왔지만 동시에 성가신 단점도 가져왔습니다. 볼륨 버튼은 미디어 볼륨을 항상 제어하고 벨소리와 알림 볼륨을 변경하려면 여러 단계를 수행해야 합니다.\n \n이제 이 문제가 수정되었으며 Volfix라고 합니다.\n\nVolfix가 활성화되면 장치의 볼륨 버튼이 기본적으로 벨소리와 알림 볼륨을 제어합니다. 모든 종류의 소리를 듣는 동안 미디어 볼륨을 제어하고 진행 중인 통화가 있는 동안 "통화 중" 볼륨을 제어합니다.\n\n볼픽스를 들으려면 접근성 서비스로 Volfix를 활성화해야 합니다. 버튼 누름 이벤트 및 미디어 볼륨 대신 벨소리 및 알림 볼륨을 제어하도록 버튼을 매핑합니다.\n\n현재 Volfix는 화면이 켜져 있는 동안에만 작동합니다.</string>
+    <string name="excluded_apps">제외된 앱</string>
+    <string name="already_donated"><u>이미 기부했습니다</u></string>
+    <string name="reject_donation"><u>기부하고 싶지 않습니다</u></string>
+    <string name="consider_donating">설치된 모든 앱이 여기에 표시되지만 그 전에 이 프로젝트를 계속 유지할 수 있도록 기부를 제안해 주세요.</string>
+    <string name="volfix_disabled_for_apps">다음 앱이 열려 있는 동안 Volfix가 비활성화됩니다.</string>
+    <string name="installed_apps">설치된 앱:</string>
+    <string name="info">정보</string>
+    <string name="excluded_apps_info">선택한 앱이 표시되는 동안 Volfix 서비스를 사용 중지하려면 이 옵션을 사용하세요.\n\n일부 앱에서는 의도한 대로 볼륨 버튼을 사용하고 싶을 수 있습니다. 예를 들어 카메라 앱에서 볼륨 버튼을 사용하여 카메라 줌을 제어하고 Volfix가 간섭하는 것을 원하지 않습니다.</string>
+    <string name="app_recommendation">저는 이 앱을 사용하여 벨소리와 알림의 볼륨을 조정하므로 귀하에게 추천합니다: %1$s</string>
+</resources>

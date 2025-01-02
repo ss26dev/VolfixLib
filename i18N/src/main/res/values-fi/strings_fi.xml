@@ -1,0 +1,25 @@
+<resources>
+    <string name="short_description">Hallitse soittoääntä ja ilmoitusten voimakkuutta äänenvoimakkuuspainikkeilla</string>
+    <string name="service_description">"Kun tämä palvelu on käytössä, äänenvoimakkuuden painikkeet ohjaavat:\n\n• rengas ja ilmoituksen äänenvoimakkuutta, kun ääni ei tällä hetkellä pelaa\n\n• media äänenvoimakkuuden milloin tahansa media on pelissä\n\n• in-puhelun äänenvoimakkuutta, kun siellä on meneillään oleva puhelu\n\n\n<b>Volfix EI noudata tekstiä kirjoitat ja ei kerää mitään tietoja laitteen näyttö.</b></string>
+    <string name="status">Tila</string>
+    <string name="allow_while_do_not_disturb">Saa vaikka Älä Häiritse-toiminto on päällä</string>
+    <string name="keep_the_ads_away">Pidä mainokset pois ja tukevat meitä:</string>
+    <string name="support_the_development">Tukea kehitystä tämän app:</string>
+    <string name="description_label">Kuvaus</string>
+    <string name="tap_to_enable">Napauta ottaaksesi tämän palvelun Asetuksia</string>
+    <string name="invite_friends"><u>Kutsu ystäviä</u></string>
+    <string name="not_now">Ei nyt</string>
+    <string name="agree">Olla samaa mieltä</string>
+    <string name="prominent_disclosure_consent_title">Ota esteettömyyspalvelu käyttöön</string>
+    <string name="prominent_disclosure_consent_message">Volfixin on oltava käytössä esteettömyyspalveluna, jotta voit kuunnella äänenvoimakkuuspainikkeiden painalluksia ja saada painikkeita ohjaamaan soittoääntä ja ilmoitusten äänenvoimakkuutta median äänenvoimakkuuden sijaan.\n\nVaikka sinua varoitetaan, että sovellus pystyy lukea näytön sisältöä, Volfix ei huomioi kirjoittamaasi tekstiä eikä kerää tietoja laitteesi näytöltä.\n\nJos hyväksyt, sinut ohjataan esteettömyysasetuksiin, joista sinun on löydettävä Volfix ja otettava se käyttöön.</string>
+    <string name="full_description">Android 9 toi paljon uusia ominaisuuksia laitteihimme, mutta samalla se toi ärsyttävän haittapuolen: äänenvoimakkuuspainikkeet ohjaavat median äänenvoimakkuutta koko ajan ja meidän on suoritettava useita vaiheita muuttaaksemme soittoääntä ja ilmoitusten äänenvoimakkuutta.\n \nTähän ongelmaan on nyt korjaus, ja sen nimi on Volfix.\n\nKun Volfix on käytössä, laitteesi äänenvoimakkuuspainikkeet ohjaavat oletusarvoisesti soittoääntä ja ilmoitusten äänenvoimakkuutta. Se ohjaa median äänenvoimakkuutta kuunnellessasi kaikenlaisia ​​ääniä ja se ohjaa "puhelun" äänenvoimakkuutta puhelun aikana.\n\nVolfixin on oltava käytössä esteettömyyspalveluna, jotta voit kuunnella äänenvoimakkuutta. painikkeen painallustapahtumat ja painikkeet ohjaamaan soittoäänen ja ilmoitusten äänenvoimakkuutta median äänenvoimakkuuden sijaan.\n\nHuomaa, että tällä hetkellä Volfix toimii vain näytön ollessa päällä.</string>
+    <string name="excluded_apps">Poissuljetut sovellukset</string>
+    <string name="already_donated"><u>Olen jo lahjoittanut</u></string>
+    <string name="reject_donation"><u>En halua lahjoittaa</u></string>
+    <string name="consider_donating">Kaikki asennetut sovellukset näkyvät täällä, mutta ennen sitä, harkitse lahjoituksen tarjoamista, jotta tämä projekti pysyy hengissä.</string>
+    <string name="volfix_disabled_for_apps">Volfix on poissa käytöstä, kun seuraavat sovellukset ovat avoinna:</string>
+    <string name="installed_apps">Asennetut sovellukset:</string>
+    <string name="info">Tiedot</string>
+    <string name="excluded_apps_info">Tämän vaihtoehdon avulla voit poistaa Volfix-palvelun käytöstä, kun jokin valituista sovelluksista on näkyvissä.\n\nJoissakin sovelluksissa saatat haluta käyttää äänenvoimakkuuspainikkeita tarkoitetulla tavalla. Esimerkiksi Kamera-sovelluksessa käytät äänenvoimakkuuspainikkeita kameran zoomauksen ohjaamiseen, etkä halua Volfixin häiritsevän.</string>
+    <string name="app_recommendation">Käytän tätä sovellusta soittoäänen ja ilmoitusten äänenvoimakkuuden säätämiseen, joten suosittelen sitä sinulle: %1$s</string>
+</resources>

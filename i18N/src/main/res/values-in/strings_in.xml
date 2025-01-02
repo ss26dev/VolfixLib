@@ -1,0 +1,25 @@
+<resources>
+    <string name="short_description">Gunakan tombol volume untuk mengontrol nada dering dan volume pemberitahuan</string>
+    <string name="service_description">"Ketika layanan ini diaktifkan, tombol volume akan mengontrol:\n\n• cincin dan volume pemberitahuan ketika ada suara yang saat ini bermain\n\n• volume media ketika setiap jenis media bermain\n\n• volume di-panggilan ketika ada panggilan yang sedang berlangsung\n\n\n<b>Volfix TIDAK mengamati teks yang anda ketik dan tidak mengumpulkan informasi apapun dari layar perangkat anda.</b></string>
+    <string name="status">Status</string>
+    <string name="allow_while_do_not_disturb">Diperbolehkan selagi Tidak Mengganggu pada</string>
+    <string name="keep_the_ads_away">Menjaga iklan dan mendukung kami dengan:</string>
+    <string name="support_the_development">Mendukung pengembangan aplikasi ini dengan:</string>
+    <string name="description_label">Deskripsi</string>
+    <string name="tap_to_enable">Tekan untuk mengaktifkan layanan ini di Pengaturan</string>
+    <string name="invite_friends"><u>Mengundang teman-teman</u></string>
+    <string name="not_now">Tidak sekarang</string>
+    <string name="agree">Setuju</string>
+    <string name="prominent_disclosure_consent_title">Aktifkan layanan aksesibilitas</string>
+    <string name="prominent_disclosure_consent_message">Volfix harus diaktifkan sebagai layanan aksesibilitas untuk mendengarkan acara penekanan tombol volume dan membuat tombol mengontrol volume dering dan notifikasi alih-alih volume media.\n\nMeskipun Anda akan diperingatkan bahwa aplikasi akan dapat membaca konten layar Anda, Volfix tidak mengamati teks yang Anda ketik dan tidak mengumpulkan informasi apa pun dari layar perangkat Anda.\n\nJika Anda setuju, Anda akan dibawa ke Pengaturan Aksesibilitas di mana Anda harus menemukan Volfix dan mengaktifkannya.</string>
+    <string name="full_description">Android 9 membawa banyak fitur baru ke perangkat kami, tetapi pada saat yang sama, itu membawa kelemahan yang mengganggu: Tombol volume mengontrol volume media sepanjang waktu dan kami harus melakukan beberapa langkah untuk mengubah nada dering dan volume notifikasi.\n \nSekarang ada perbaikan untuk masalah ini dan ini disebut Volfix.\n\nSaat Volfix diaktifkan, tombol volume perangkat Anda akan mengontrol nada dering dan volume notifikasi secara default. Ini akan mengontrol volume media saat Anda mendengarkan jenis suara apa pun dan akan mengontrol volume "dalam panggilan" saat ada panggilan yang sedang berlangsung.\n\nVolfix harus diaktifkan sebagai layanan aksesibilitas untuk mendengarkan volume tombol tekan acara dan untuk memetakan tombol untuk mengontrol dering dan volume notifikasi alih-alih volume media.\n\nHarap diperhatikan bahwa saat ini Volfix hanya berfungsi saat layar menyala.</string>
+    <string name="excluded_apps">Aplikasi yang Dikecualikan</string>
+    <string name="already_donated"><u>Saya sudah menyumbang</u></string>
+    <string name="reject_donation"><u>Saya tidak ingin menyumbang</u></string>
+    <string name="consider_donating">Semua aplikasi yang terinstal akan muncul di sini, tetapi sebelum itu, harap pertimbangkan untuk menawarkan donasi kepada kami agar proyek ini tetap hidup.</string>
+    <string name="volfix_disabled_for_apps">Volfix dinonaktifkan saat aplikasi berikut terbuka:</string>
+    <string name="installed_apps">Aplikasi terpasang:</string>
+    <string name="info">Info</string>
+    <string name="excluded_apps_info">Gunakan opsi ini untuk menonaktifkan layanan Volfix saat salah satu aplikasi yang dipilih terlihat.\n\nDi beberapa aplikasi, Anda mungkin ingin menggunakan tombol volume sebagaimana mestinya. Misalnya di aplikasi Kamera, Anda akan menggunakan tombol volume untuk mengontrol zoom kamera dan Anda tidak ingin Volfix mengganggu.</string>
+    <string name="app_recommendation">Saya menggunakan aplikasi ini untuk menyesuaikan volume nada dering dan notifikasi, jadi saya merekomendasikannya kepada Anda: %1$s</string>
+</resources>

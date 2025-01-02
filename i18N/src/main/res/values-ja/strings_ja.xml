@@ -1,0 +1,25 @@
+<resources>
+    <string name="short_description">使用音量ボタンを制御する着信音や届出数量</string>
+    <string name="service_description">"このサービスが可能、音量ボタン制御:\n\n-リングの届出数量がない場合の音声は、現在再生中の何n-メディアの容量がどのようなメディア遊んでおり、着信音量がある場合、継続的なコ\n\n\n<b>Volfixを遵守していないテキストできますを集めることはありませんの情報からデバイス画面になります。</b></string>
+    <string name="status">状況</string>
+    <string name="allow_while_do_not_disturb">させながらの迷惑にならないように気を配りが</string>
+    <string name="keep_the_ads_away">の広告を離れて、支えてくれるみん:</string>
+    <string name="support_the_development">支援は本アプリの開発：</string>
+    <string name="description_label">説明</string>
+    <string name="tap_to_enable">タップする本サービスの設定</string>
+    <string name="invite_friends"><u>のみ</u></string>
+    <string name="not_now">今はやめろ</string>
+    <string name="agree">同意</string>
+    <string name="prominent_disclosure_consent_title">アクセシビリティサービスを有効にする</string>
+    <string name="prominent_disclosure_consent_message">音量ボタンの押下イベントをリッスンし、ボタンでメディアの音量ではなく呼び出し音と通知の音量を制御するには、ユーザー補助サービスとしてVolfixを有効にする必要があります。\ n \ nアプリで次のことができるようになるという警告が表示されますが画面の内容を読みます。Volfixは入力したテキストを監視せず、デバイスの画面から情報を収集しません。\ n \ n同意すると、ユーザー補助設定が表示され、Volfixを見つけて有効にする必要があります。</string>
+    <string name="full_description">Android 9はデバイスに多くの新機能をもたらしましたが、同時に厄介な欠点ももたらしました。音量ボタンは常にメディアの音量を制御し、着信音と通知の音量を変更するには複数の手順を実行する必要があります。\ n \ nこの問題は修正され、Volfixと呼ばれます。\ n \ nVolfixを有効にすると、デバイスの音量ボタンがデフォルトで着信音と通知の音量を制御します。あらゆる種類の音を聞いている間はメディアの音量を制御し、通話中は「通話中」の音量を制御します。\ n \ n音量を聞くには、ユーザー補助サービスとしてVolfixを有効にする必要があります。ボタンを押したイベントとボタンをマップして、メディアの音量ではなく呼び出し音と通知の音量を制御します。\ n \ n現時点では、Volfixは画面がオンのときにのみ機能することに注意してください。</string>
+    <string name="excluded_apps">除外されたアプリ</string>
+    <string name="already_donated"><u>すでに寄付しました</u></string>
+    <string name="reject_donation"><u>寄付したくない</u></string>
+    <string name="consider_donating">インストールされているすべてのアプリがここに表示されますが、その前に、このプロジェクトを存続させるために寄付を提供することを検討してください。</string>
+    <string name="volfix_disabled_for_apps">次のアプリが開いている間、Volfix は無効になります。</string>
+    <string name="installed_apps">インストール済みアプリ:</string>
+    <string name="info">情報</string>
+    <string name="excluded_apps_info">このオプションを使用して、選択したアプリのいずれかが表示されているときに Volfix サービスを無効にします。\n\n一部のアプリでは、意図したとおりに音量ボタンを使用したい場合があります。たとえば、カメラ アプリでは、ボリューム ボタンを使用してカメラのズームを制御し、Volfix に干渉されたくない場合があります。</string>
+    <string name="app_recommendation">このアプリを使って着信音と通知の音量を調整しているので、あなたにおすすめです: %1$s</string>
+</resources>

@@ -1,0 +1,25 @@
+<resources>
+    <string name="short_description">A hangerőszabályzó gombbal vezérelheti a csengőhangot és az értesítési hangerőt</string>
+    <string name="service_description">"Amikor ez a szolgáltatás engedélyezett, a hangerő gombok vezérlő:\n\n• a gyűrű, valamint az értesítési hangerő, amikor nincs hang, jelenleg játszott\n\n• a média hangerő, amikor bármilyen média lejátszása\n\n• a hívás hangerejét, ha van egy folyamatban lévő hívás\n\n\n<b>Volfix NEM tartja be a beírt szöveg nem gyűjt semmilyen információt a készülék képernyőjén.</b></string>
+    <string name="status">Állapot</string>
+    <string name="allow_while_do_not_disturb">Engedélyezett, amíg Nem Zavarják a</string>
+    <string name="keep_the_ads_away">Tartsa a hirdetések innen, támogass minket:</string>
+    <string name="support_the_development">Támogatja a fejlesztési app:</string>
+    <string name="description_label">Leírás</string>
+    <string name="tap_to_enable">Érintse meg ahhoz, hogy ez a szolgáltatás Beállítások</string>
+    <string name="invite_friends"><u>hívja meg barátait</u></string>
+    <string name="not_now">Nem most</string>
+    <string name="agree">Egyetért</string>
+    <string name="prominent_disclosure_consent_title">Kisegítő lehetőségek szolgáltatás engedélyezése</string>
+    <string name="prominent_disclosure_consent_message">A Volfix kisegítő szolgáltatásként engedélyezni kell, hogy figyelje a hangerőgombok megnyomásának eseményeit, és hogy a gombok a csengetést és az értesítések hangerejét vezéreljék a média hangereje helyett.\n\nAnnak ellenére, hogy figyelmeztetést kap, hogy az alkalmazás képes lesz olvassa el a képernyő tartalmát, a Volfix nem veszi figyelembe az Ön által beírt szöveget, és nem gyűjt semmilyen információt az eszköz képernyőjéről.\n\nHa beleegyezik, a Kisegítő lehetőségek menübe kerül, ahol meg kell találnia a Volfixet, és engedélyeznie kell.</string>
+    <string name="full_description">Az Android 9 számos új funkciót hozott eszközeinkre, ugyanakkor egy bosszantó hátránnyal is jár: a hangerő gombok folyamatosan szabályozzák a média hangerejét, és több lépést kell végrehajtanunk a csengőhang és az értesítések hangerejének megváltoztatásához.\n \nMost már van egy javítás a problémára, a neve Volfix.\n\nHa a Volfix engedélyezve van, az eszköz hangerőgombjai alapértelmezés szerint szabályozzák a csengőhangot és az értesítések hangerejét. Szabályozza a média hangerejét, miközben Ön bármilyen hangot hallgat, és szabályozza a "hívás közbeni" hangerőt, miközben folyamatban lévő hívás van.\n\nA Volfixet engedélyezni kell akadálymentesítési szolgáltatásként a hangerő figyeléséhez. gombnyomás események és a gombok leképezése a csengetés és az értesítések hangerejének szabályozására a média hangereje helyett.\n\nKérjük, vegye figyelembe, hogy jelenleg a Volfix csak akkor működik, ha a képernyő be van kapcsolva.</string>
+    <string name="excluded_apps">Kizárt alkalmazások</string>
+    <string name="already_donated"><u>Már adományoztam</u></string>
+    <string name="reject_donation"><u>Nem akarok adományozni</u></string>
+    <string name="consider_donating">Az összes telepített alkalmazás megjelenik itt, de előtte érdemes felajánlani nekünk egy adományt, hogy életben tartsuk ezt a projektet.</string>
+    <string name="volfix_disabled_for_apps">A Volfix le van tiltva, amíg a következő alkalmazások vannak nyitva:</string>
+    <string name="installed_apps">Telepített alkalmazások:</string>
+    <string name="info">Info</string>
+    <string name="excluded_apps_info">Ezzel a lehetőséggel letilthatja a Volfix szolgáltatást, miközben a kiválasztott alkalmazások bármelyike ​​látható.\n\nEgyes alkalmazásokban célszerű a hangerőgombokat a rendeltetésüknek megfelelően használni. Például a Kamera alkalmazásban a hangerő gombokkal szabályozhatja a kamera zoomját, és nem akarja, hogy a Volfix zavarjon.</string>
+    <string name="app_recommendation">Ezzel az alkalmazással állítom be a csengőhangok és az értesítések hangerejét, ezért ajánlom figyelmedbe: %1$s</string>
+</resources>

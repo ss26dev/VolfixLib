@@ -1,0 +1,25 @@
+<resources>
+    <string name="short_description">Use the volume buttons to control the ringtone and notification volume</string>
+    <string name="service_description">"When this service is enabled, your volume buttons will control:\n\n• the ring and notification volume when no sound is currently playing\n\n• the media volume when any kind of media is playing\n\n• the in-call volume when there is an ongoing call\n\n\n<b>Volfix does NOT observe the text you type and does not collect any information from your device screen.</b>"</string>
+    <string name="status">Status</string>
+    <string name="allow_while_do_not_disturb">Allowed while Do Not Disturb is on</string>
+    <string name="keep_the_ads_away">Keep the ads away and support us with:</string>
+    <string name="support_the_development">Support the development of this app with:</string>
+    <string name="description_label">Description</string>
+    <string name="tap_to_enable">Tap to enable this service in Settings</string>
+    <string name="invite_friends"><u>Invite friends</u></string>
+    <string name="not_now">Not now</string>
+    <string name="agree">Agree</string>
+    <string name="prominent_disclosure_consent_title">Enable accessibility service</string>
+    <string name="prominent_disclosure_consent_message">Volfix requires to be enabled as an accessibility service in order to listen for volume button press events and to make the buttons control the ring and notification volume instead of media volume.\n\nEven though you will be warned that the app will be able to read your screen content, Volfix does not observe the text you type and does not collect any information from your device screen.\n\nIf you agree, you will be taken to the Accessibility Settings where you will have to find Volfix and enable it.</string>
+    <string name="full_description">Android 9 brought a lot of new features to our devices but in the same time, it brought an annoying drawback: The volume buttons control the media volume all the time and we have to perform multiple steps to change the ringtone and notification volume.\n\nThere is now a fix to this problem and it is called Volfix.\n\nWhen Volfix is enabled, the volume buttons of your device will control the ringtone and notification volume by default. It will control the media volume while you are listening to any kind of sounds and it will control the "in call" volume while there is an ongoing call.\n\nVolfix requires to be enabled as an accessibility service in order to listen for volume button press events and to map the buttons to control the ring and notification volume instead of media volume.\n\nPlease note that at the moment Volfix only works while the screen is on.</string>
+    <string name="excluded_apps">Excluded Apps</string>
+    <string name="already_donated"><u>I donated already</u></string>
+    <string name="reject_donation"><u>I don\'t want to donate</u></string>
+    <string name="consider_donating">All installed apps will appear here but before that, please consider offering us a donation to keep this project alive.</string>
+    <string name="volfix_disabled_for_apps">Volfix is disabled while the following apps are open:</string>
+    <string name="installed_apps">Installed apps:</string>
+    <string name="info">Info</string>
+    <string name="excluded_apps_info">Use this option to disable the Volfix service while any of the selected apps is visible.\n\nIn some apps, you may want to use the volume buttons as they are intended. For example in the Camera app, you will use the volume buttons to control the camera zoom and you don\'t want Volfix to interfere.</string>
+    <string name="app_recommendation">I use this app to adjust the volume of ringtone and notifications so I recommend it to you: %1$s</string>
+</resources>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <data>
+
+        <import type="android.graphics.Color" />
+
+        <variable
+            name="app"
+            type="com.softstackdev.volumeFix.ui.apps.UIAppData" />
+
+        <variable
+            name="viewModel"
+            type="com.softstackdev.volumeFix.ui.apps.AppsViewModel" />
+    </data>
+
+    <LinearLayout
+        android:layout_width="86dp"
+        android:layout_height="86dp"
+        android:background="@{app.excluded ? @color/excludedAppBackground : @color/transparent}"
+        android:foreground="?selectableItemBackground"
+        android:gravity="center"
+        android:onClick="@{() -> viewModel.onAppClick(app)}"
+        android:orientation="vertical"
+        tools:background="@color/cardview_shadow_start_color">
+
+        <ImageView
+            android:id="@+id/appIconImageView"
+            android:layout_width="48dp"
+            android:layout_height="48dp"
+            android:contentDescription="@{app.label}"
+            android:scaleType="centerInside"
+            android:src="@{app.icon}"
+            app:tintExcluded="@{app}"
+            tools:src="@mipmap/ic_launcher" />
+
+        <TextView
+            android:id="@+id/title_text"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:lines="2"
+            android:text="@{app.label}"
+            tools:text="@string/app_name" />
+    </LinearLayout>
+</layout>

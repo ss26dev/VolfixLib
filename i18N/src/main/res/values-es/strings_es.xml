@@ -1,0 +1,25 @@
+<resources>
+    <string name="short_description">Use los botones de volumen para controlar el volumen del tono de llamada</string>
+    <string name="service_description">"Cuando este servicio esté activado, el volumen de los botones de control:\n\n• el anillo y la notificación de volumen cuando no hay sonido se está reproduciendo actualmente\n\n• el volumen de los medios cuando cualquier tipo de medios de comunicación está jugando\n\n• el volumen de la llamada cuando hay una llamada en curso\n\n\n<b>Volfix NO observar el texto que se escribe, y no se recoge ninguna información de la pantalla de su dispositivo.</b></string>
+    <string name="status">Estado</string>
+    <string name="allow_while_do_not_disturb">Permitido mientras No Molestar está activada</string>
+    <string name="keep_the_ads_away">Mantener los anuncios de distancia y nos apoyan con:</string>
+    <string name="support_the_development">Apoyar el desarrollo de esta aplicación con:</string>
+    <string name="description_label">Descripción</string>
+    <string name="tap_to_enable">Toque para activar en la Configuración de</string>
+    <string name="invite_friends"><u>Invitar a tus amigos</u></string>
+    <string name="not_now">Ahora no</string>
+    <string name="agree">De acuerdo</string>
+    <string name="prominent_disclosure_consent_title">Habilitar el servicio de accesibilidad</string>
+    <string name="prominent_disclosure_consent_message">Volfix requiere estar habilitado como un servicio de accesibilidad para escuchar los eventos de pulsación del botón de volumen y para que los botones controlen el volumen del timbre y de las notificaciones en lugar del volumen de los medios. \ N \ nAunque se le advertirá que la aplicación podrá lee el contenido de su pantalla, Volfix no observa el texto que escribe y no recopila ninguna información de la pantalla de su dispositivo. \ n \ nSi está de acuerdo, será llevado a la Configuración de accesibilidad donde tendrá que encontrar Volfix y habilitarlo.</string>
+    <string name="full_description">Android 9 trajo muchas funciones nuevas a nuestros dispositivos, pero al mismo tiempo, trajo un inconveniente molesto: los botones de volumen controlan el volumen de los medios todo el tiempo y tenemos que realizar varios pasos para cambiar el tono de llamada y el volumen de las notificaciones. \ N \ nHay una solución a este problema y se llama Volfix. \ n \ nCuando Volfix está habilitado, los botones de volumen de su dispositivo controlarán el tono de llamada y el volumen de notificación de forma predeterminada. Controlará el volumen de los medios mientras escuchas cualquier tipo de sonido y controlará el volumen "en llamada" mientras hay una llamada en curso. \ N \ nVolfix requiere estar habilitado como un servicio de accesibilidad para poder escuchar el volumen Presione eventos de botón y para asignar los botones para controlar el volumen del timbre y las notificaciones en lugar del volumen de los medios. \ n \ nTenga en cuenta que, por el momento, Volfix solo funciona mientras la pantalla está encendida.</string>
+    <string name="excluded_apps">Aplicaciones excluidas</string>
+    <string name="already_donated"><u>Ya he donado</u></string>
+    <string name="reject_donation"><u>No quiero donar</u></string>
+    <string name="consider_donating">Todas las aplicaciones instaladas aparecerán aquí, pero antes de eso, considere ofrecernos una donación para mantener vivo este proyecto.</string>
+    <string name="volfix_disabled_for_apps">Volfix está deshabilitado mientras las siguientes aplicaciones están abiertas:</string>
+    <string name="installed_apps">aplicaciones instaladas:</string>
+    <string name="info">Información</string>
+    <string name="excluded_apps_info">Use esta opción para deshabilitar el servicio Volfix mientras cualquiera de las aplicaciones seleccionadas está visible.\n\nEn algunas aplicaciones, es posible que desee usar los botones de volumen como se espera. Por ejemplo, en la aplicación Cámara, usará los botones de volumen para controlar el zoom de la cámara y no quiere que Volfix interfiera.</string>
+    <string name="app_recommendation">Uso esta aplicación para ajustar el volumen del tono de llamada y las notificaciones, así que te la recomiendo: %1$s</string>
+</resources>

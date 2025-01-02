@@ -1,0 +1,25 @@
+<resources>
+    <string name="short_description">Użyj przycisków głośności do sterowania dzwonka i głośności powiadomienia </string>
+    <string name="service_description">"Gdy usługa ta jest włączona, poziom głośności, przyciski sterowania:\N\N• pierścienie i głośność powiadomienia, gdy dźwięk nie jest odtwarzany\n\n• MEDIA regulacji głośności dla każdego rodzaju mediów-Gry\n\n• w-głośność dzwonka, gdy nadchodzi połączenie\n\n\n<b>wesołych świąt! nie przestrzega tekst typu i nie zbiera informacje z urządzenia.</b></string>
+    <string name="status">Status</string>
+    <string name="allow_while_do_not_disturb">Jest dozwolone nie przeszkadzać</string>
+    <string name="keep_the_ads_away">Zapisz ogłoszenia i wesprzyj nas:</string>
+    <string name="support_the_development">Wspierać rozwój tej aplikacji:</string>
+    <string name="description_label">Opis</string>
+    <string name="tap_to_enable">Naciśnij, aby włączyć tę usługę w ustawieniach</string>
+    <string name="invite_friends"><u>zaproś znajomych</u></string>
+    <string name="not_now">Nie teraz</string>
+    <string name="agree">Zgadzać się</string>
+    <string name="prominent_disclosure_consent_title">Włącz usługę ułatwień dostępu</string>
+    <string name="prominent_disclosure_consent_message">Volfix musi być włączony jako usługa ułatwień dostępu, aby nasłuchiwać zdarzeń naciśnięcia przycisków głośności i aby przyciski kontrolowały głośność dzwonka i powiadomień zamiast głośności multimediów.\n\nMimo że zostaniesz ostrzeżony, że aplikacja będzie w stanie odczytuje zawartość ekranu, Volfix nie obserwuje wpisywanego tekstu i nie zbiera żadnych informacji z ekranu Twojego urządzenia.\n\nJeśli wyrazisz zgodę, zostaniesz przeniesiony do Ustawień ułatwień dostępu, gdzie będziesz musiał znaleźć Volfix i włączyć go.</string>
+    <string name="full_description">Android 9 wprowadził wiele nowych funkcji do naszych urządzeń, ale jednocześnie przyniósł irytującą wadę: przyciski głośności cały czas kontrolują głośność multimediów i musimy wykonać wiele kroków, aby zmienić głośność dzwonka i powiadomień.\n \nJest teraz rozwiązanie tego problemu i nazywa się Volfix.\n\nGdy Volfix jest włączony, przyciski głośności urządzenia będą domyślnie kontrolować głośność dzwonka i powiadomień. Będzie kontrolować głośność multimediów podczas słuchania dowolnego rodzaju dźwięków i kontrolować głośność „w trakcie rozmowy” podczas trwającego połączenia.\n\nVolfix wymaga włączenia jako usługi ułatwień dostępu, aby nasłuchiwać głośności zdarzenia naciskania przycisków i mapowania przycisków do sterowania głośnością dzwonka i powiadomień zamiast głośności multimediów.\n\nPamiętaj, że obecnie Volfix działa tylko wtedy, gdy ekran jest włączony.</string>
+    <string name="excluded_apps">Wykluczone aplikacje</string>
+    <string name="already_donated"><u>Już przekazałem darowiznę</u></string>
+    <string name="reject_donation"><u>Nie chcę przekazywać darowizn</u></string>
+    <string name="consider_donating">Wszystkie zainstalowane aplikacje pojawią się tutaj, ale zanim to nastąpi, rozważ ofiarowanie nam darowizny, aby utrzymać ten projekt przy życiu.</string>
+    <string name="volfix_disabled_for_apps">Volfix jest wyłączony, gdy otwarte są następujące aplikacje:</string>
+    <string name="installed_apps">Zainstalowane aplikacje:</string>
+    <string name="info">Informacje</string>
+    <string name="excluded_apps_info">Użyj tej opcji, aby wyłączyć usługę Volfix, gdy którakolwiek z wybranych aplikacji jest widoczna.\n\nW niektórych aplikacjach możesz chcieć używać przycisków głośności zgodnie z ich przeznaczeniem. Na przykład w aplikacji Aparat będziesz używać przycisków głośności do sterowania zoomem aparatu i nie chcesz, aby Volfix przeszkadzał.</string>
+    <string name="app_recommendation">Używam tej aplikacji do regulacji głośności dzwonka i powiadomień, więc polecam ją Tobie: %1$s</string>
+</resources>

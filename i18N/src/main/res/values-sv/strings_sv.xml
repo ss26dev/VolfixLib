@@ -1,0 +1,25 @@
+<resources>
+    <string name="short_description">Använd volymknapparna för att kontrollera ringsignal och volym anmälan</string>
+    <string name="service_description">"När tjänsten är aktiverad, din volym knapparna kommer att kontrollera är:\n\n• ring och anmälan volym när inget ljud spelas för närvarande\n\n• medievolymen när någon form av media spelar\n\n• i samtal volym när ett samtal pågår\n\n\n<b>Volfix INTE iakttar den text du skriver och samlar inte in någon information från enhetens skärm.</b></string>
+    <string name="status">Status</string>
+    <string name="allow_while_do_not_disturb">Tillåtet när Stör Ej är på</string>
+    <string name="keep_the_ads_away">Hålla annonserna bort och stöd oss:</string>
+    <string name="support_the_development">Stödja utvecklingen av den här appen med:</string>
+    <string name="description_label">Beskrivning</string>
+    <string name="tap_to_enable">Tryck för att aktivera tjänsten i-Inställningar</string>
+    <string name="invite_friends"><u>Bjud in vänner för</u></string>
+    <string name="not_now">Inte nu</string>
+    <string name="agree">Hålla med</string>
+    <string name="prominent_disclosure_consent_title">Aktivera tillgänglighetstjänst</string>
+    <string name="prominent_disclosure_consent_message">Volfix måste vara aktiverad som en tillgänglighetstjänst för att kunna lyssna efter volymknappstryckningshändelser och för att få knapparna att styra ring- och aviseringsvolymen istället för mediavolymen.\n\nÄven om du blir varnad om att appen kommer att kunna läser ditt skärminnehåll, Volfix observerar inte texten du skriver och samlar inte in någon information från din enhetsskärm.\n\nOm du samtycker kommer du att tas till tillgänglighetsinställningarna där du måste hitta Volfix och aktivera den.</string>
+    <string name="full_description">Android 9 tillförde många nya funktioner till våra enheter men samtidigt medförde det en irriterande nackdel: volymknapparna styr mediavolymen hela tiden och vi måste utföra flera steg för att ändra ringsignalen och aviseringsvolymen.\n \nDet finns nu en lösning på det här problemet och det kallas Volfix.\n\nNär Volfix är aktiverat kommer volymknapparna på din enhet att styra ringsignalen och aviseringsvolymen som standard. Den kommer att styra mediavolymen medan du lyssnar på alla typer av ljud och den kommer att styra volymen "i samtalet" medan det pågår ett samtal.\n\nVolfix måste vara aktiverad som en tillgänglighetstjänst för att kunna lyssna efter volym knapptryckningshändelser och för att kartlägga knapparna för att styra ring- och meddelandevolymen istället för mediavolymen.\n\nObservera att för tillfället fungerar Volfix bara när skärmen är på.</string>
+    <string name="excluded_apps">Uteslutna appar</string>
+    <string name="already_donated"><u>Jag har redan donerat</u></string>
+    <string name="reject_donation"><u>Jag vill inte donera</u></string>
+    <string name="consider_donating">Alla installerade appar kommer att visas här men innan dess kan du överväga att ge oss en donation för att hålla detta projekt vid liv.</string>
+    <string name="volfix_disabled_for_apps">Volfix är inaktiverat medan följande appar är öppna:</string>
+    <string name="installed_apps">Installerade appar:</string>
+    <string name="info">Info</string>
+    <string name="excluded_apps_info">Använd det här alternativet för att inaktivera Volfix-tjänsten medan någon av de valda apparna är synliga.\n\nI vissa appar kanske du vill använda volymknapparna som de är avsedda. Till exempel i kameraappen kommer du att använda volymknapparna för att styra kamerazoom och du vill inte att Volfix ska störa.</string>
+    <string name="app_recommendation">Jag använder den här appen för att justera volymen på ringsignaler och aviseringar så jag rekommenderar den till dig: %1$s</string>
+</resources>

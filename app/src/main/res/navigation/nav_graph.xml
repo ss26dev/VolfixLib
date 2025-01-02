@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/SettingsFragment">
+
+    <fragment
+        android:id="@+id/SettingsFragment"
+        android:name="com.softstackdev.volumeFix.ui.main.SettingsFragment"
+        android:label="@string/app_name"
+        tools:layout="@layout/fragment_settings">
+
+        <action
+            android:id="@+id/action_to_ExcludedAppsFragment"
+            app:destination="@id/excludedAppsFragment" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/excludedAppsFragment"
+        android:name="com.softstackdev.volumeFix.ui.apps.excludedApps.ExcludedAppsFragment"
+        android:label="@string/excluded_apps"
+        tools:layout="@layout/fragment_excluded_apps">
+
+        <action
+            android:id="@+id/action_SecondFragment_to_FirstFragment"
+            app:destination="@id/SettingsFragment" />
+    </fragment>
+</navigation>

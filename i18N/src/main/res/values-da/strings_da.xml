@@ -1,0 +1,25 @@
+<resources>
+    <string name="short_description">Brug lydstyrkeknapperne til at styre den ringetone, og volumen anmeldelse</string>
+    <string name="service_description">"Når denne tjeneste er aktiveret, er din volumen knapper kontrol:\n\n• ring og anmeldelse lydstyrken, når der ingen lyd er i øjeblikket spiller\n\n• medielydstyrken når enhver form for medierne spiller\n\n• den lydstyrke for opkald, når der er et igangværende opkald\n\n\n<b>Volfix IKKE observere den tekst, du skriver, og indsamler ikke nogen oplysninger fra enhedens skærm.</b></string>
+    <string name="status">Status</string>
+    <string name="allow_while_do_not_disturb">Tilladt, mens forstyr Ikke er på</string>
+    <string name="keep_the_ads_away">Holde annoncerne væk og støtte os med:</string>
+    <string name="support_the_development">Støtte udviklingen af denne app med:</string>
+    <string name="description_label">Beskrivelse</string>
+    <string name="tap_to_enable">Tryk på for at aktivere denne tjeneste i Indstillinger</string>
+    <string name="invite_friends"><u>Inviter venner</u></string>
+    <string name="not_now">Ikke nu</string>
+    <string name="agree">Enig</string>
+    <string name="prominent_disclosure_consent_title">Aktiver tilgængelighedstjeneste</string>
+    <string name="prominent_disclosure_consent_message">Volfix skal være aktiveret som en tilgængelighedstjeneste for at lytte efter hændelser med volumenknaptryk og for at få knapperne til at styre ringe- og notifikationslydstyrken i stedet for medielydstyrken.\n\nSelvom du vil blive advaret om, at appen vil være i stand til at læs dit skærmindhold, observerer Volfix ikke den tekst, du skriver, og indsamler ingen oplysninger fra din enheds skærm.\n\nHvis du accepterer, vil du blive ført til tilgængelighedsindstillingerne, hvor du skal finde Volfix og aktivere den.</string>
+    <string name="full_description">Android 9 bragte en masse nye funktioner til vores enheder, men på samme tid medførte det en irriterende ulempe: Lydstyrkeknapperne styrer medielydstyrken hele tiden, og vi skal udføre flere trin for at ændre ringetonen og meddelelseslydstyrken.\n \nDer er nu en løsning på dette problem, og det kaldes Volfix.\n\nNår Volfix er aktiveret, vil lydstyrkeknapperne på din enhed styre ringetonen og meddelelseslydstyrken som standard. Den vil styre medielydstyrken, mens du lytter til enhver form for lyd, og den vil styre lydstyrken "i opkald", mens der er et igangværende opkald.\n\nVolfix skal være aktiveret som en tilgængelighedstjeneste for at lytte efter lydstyrke knaptryk begivenheder og til at kortlægge knapperne for at styre ringe- og notifikationslydstyrken i stedet for medielydstyrken.\n\nBemærk, at i øjeblikket virker Volfix kun, mens skærmen er tændt.</string>
+    <string name="excluded_apps">Ekskluderede apps</string>
+    <string name="already_donated"><u>Jeg har allerede doneret</u></string>
+    <string name="reject_donation"><u>Jeg ønsker ikke at donere</u></string>
+    <string name="consider_donating">Alle installerede apps vil dukke op her, men inden da bør du overveje at tilbyde os en donation for at holde dette projekt i live.</string>
+    <string name="volfix_disabled_for_apps">Volfix er deaktiveret, mens følgende apps er åbne:</string>
+    <string name="installed_apps">Installerede apps:</string>
+    <string name="info">Info</string>
+    <string name="excluded_apps_info">Brug denne mulighed til at deaktivere Volfix-tjenesten, mens nogen af ​​de valgte apps er synlige.\n\nI nogle apps vil du måske bruge lydstyrkeknapperne, som de er beregnet til. For eksempel i Camera-appen skal du bruge lydstyrkeknapperne til at styre kameraets zoom, og du vil ikke have Volfix til at forstyrre.</string>
+    <string name="app_recommendation">Jeg bruger denne app til at justere lydstyrken af ​​ringetone og notifikationer, så jeg anbefaler den til dig: %1$s</string>
+</resources>

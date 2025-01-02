@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <data>
+
+        <variable
+            name="fragment"
+            type="com.softstackdev.volumeFix.ui.main.SettingsFragment" />
+    </data>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:id="@+id/constraintLayout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="@dimen/page_padding">
+
+            <androidx.appcompat.widget.SwitchCompat
+                android:id="@+id/status_switch"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:text="@string/status"
+                android:textAppearance="@style/ClickableOption"
+                android:visibility="visible"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+
+            <TextView
+                android:id="@+id/tapToEnable_textView"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:clickable="true"
+                android:onClick="@{() -> fragment.onStatusClick()}"
+                android:text="@string/tap_to_enable"
+                app:layout_constraintEnd_toEndOf="@+id/status_switch"
+                app:layout_constraintStart_toStartOf="@+id/status_switch"
+                app:layout_constraintTop_toBottomOf="@+id/status_switch"
+                tools:text="Tap to enable" />
+
+            <androidx.appcompat.widget.SwitchCompat
+                android:id="@+id/dnd_switch"
+                android:layout_width="0dp"
+                android:layout_height="48dp"
+                android:layout_marginTop="16dp"
+                android:text="@string/allow_while_do_not_disturb"
+                android:textAppearance="@style/ClickableOption"
+                app:layout_constraintEnd_toEndOf="@+id/status_switch"
+                app:layout_constraintStart_toStartOf="@+id/status_switch"
+                app:layout_constraintTop_toBottomOf="@+id/tapToEnable_textView" />
+
+            <TextView
+                android:id="@+id/excludedAppsButton"
+                android:layout_width="match_parent"
+                android:layout_height="48dp"
+                android:layout_marginTop="16dp"
+                android:background="?selectableItemBackground"
+                android:clickable="true"
+                android:gravity="center_vertical"
+                android:onClick="@{() -> fragment.onExcludedAppsClick()}"
+                android:paddingEnd="@dimen/space_between_content_areas"
+                android:text="@string/excluded_apps"
+                android:textAppearance="@style/ClickableOption"
+                app:drawableEndCompat="@drawable/ic_baseline_block_24"
+                app:layout_constraintEnd_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@id/dnd_switch"
+                tools:ignore="RtlSymmetry" />
+
+            <View
+                android:id="@+id/divider_view"
+                android:layout_width="0dp"
+                android:layout_height="1dp"
+                android:layout_marginTop="16dp"
+                android:background="@android:color/darker_gray"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/excludedAppsButton" />
+
+            <TextView
+                android:id="@+id/descriptionLabel_textView"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="16dp"
+                android:fontFamily="sans-serif"
+                android:text="@string/description_label"
+                android:textAppearance="@android:style/TextAppearance.Material"
+                android:textSize="18sp"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/divider_view" />
+
+            <TextView
+                android:id="@+id/description_textView"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="16dp"
+                android:text="@string/service_description"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.666"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/descriptionLabel_textView" />
+
+            <TextView
+                android:id="@+id/privacyPolicy_textView"
+                style="@style/LinkStyle"
+                android:layout_marginTop="@dimen/keyline_1"
+                android:onClick="@{() -> fragment.onPrivacyPolicyClick()}"
+                android:text="@string/privacy_policy"
+                app:layout_constraintBottom_toBottomOf="@+id/inviteFriends_textView"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/description_textView" />
+
+            <TextView
+                android:id="@+id/inviteFriends_textView"
+                style="@style/LinkStyle"
+                android:onClick="@{() -> fragment.onInviteFriendsClick()}"
+                android:text="@string/invite_friends"
+                app:drawableStartCompat="@drawable/ic_share"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintTop_toTopOf="@id/privacyPolicy_textView" />
+        </androidx.constraintlayout.widget.ConstraintLayout>
+    </ScrollView>
+</layout>

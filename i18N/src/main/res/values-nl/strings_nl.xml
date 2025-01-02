@@ -1,0 +1,25 @@
+<resources>
+    <string name="short_description">Gebruik de volume knoppen om de controle van de beltoon en meldingen volume</string>
+    <string name="service_description">"Wanneer dit is ingeschakeld, zijn de volume-knoppen controle:\n\n• de ring en de kennisgeving volume wanneer er geen geluid wordt afgespeeld\n\n• de media volume bij elke vorm van media is het spelen\n\n• de in-call-volume wanneer er een telefoongesprek\n\n\n<b>Volfix NIET in acht nemen van de tekst die u typt en verzamelt geen informatie van het scherm van uw apparaat.</b></string>
+    <string name="status">Status</string>
+    <string name="allow_while_do_not_disturb">Toegestaan wanneer Niet Storen is ingeschakeld</string>
+    <string name="keep_the_ads_away">Houd de advertenties weg en ons te ondersteunen met:</string>
+    <string name="support_the_development">Ondersteuning van de ontwikkeling van deze app:</string>
+    <string name="description_label">Beschrijving</string>
+    <string name="tap_to_enable">Tik op om deze service in Instellingen</string>
+    <string name="invite_friends"><u>vrienden Uitnodigen</u></string>
+    <string name="not_now">Niet nu</string>
+    <string name="agree">Mee eens</string>
+    <string name="prominent_disclosure_consent_title">Toegankelijkheidsservice inschakelen</string>
+    <string name="prominent_disclosure_consent_message">Volfix moet zijn ingeschakeld als toegankelijkheidsservice om te kunnen luisteren naar drukgebeurtenissen op de volumeknop en om de knoppen het bel- en meldingsvolume te laten regelen in plaats van het mediavolume.\n\nHoewel u wordt gewaarschuwd dat de app dit kan lees de inhoud van uw scherm, Volfix neemt de tekst die u typt niet waar en verzamelt geen informatie van het scherm van uw apparaat.\n\nAls u akkoord gaat, gaat u naar de Toegankelijkheidsinstellingen waar u Volfix moet vinden en inschakelen.</string>
+    <string name="full_description">Android 9 bracht veel nieuwe functies op onze apparaten, maar bracht tegelijkertijd een vervelend nadeel met zich mee: de volumeknoppen regelen het mediavolume voortdurend en we moeten meerdere stappen uitvoeren om de beltoon en het meldingsvolume te wijzigen.\n \nEr is nu een oplossing voor dit probleem en het heet Volfix.\n\nAls Volfix is ​​ingeschakeld, regelen de volumeknoppen van uw apparaat standaard het beltoon- en meldingsvolume. Het regelt het mediavolume terwijl u naar elk soort geluid luistert en het regelt het "in gesprek" -volume terwijl er een gesprek is.\n\nVolfix moet worden ingeschakeld als een toegankelijkheidsservice om naar het volume te kunnen luisteren druk op de knop gebeurtenissen en om de knoppen toe te wijzen om het bel- en meldingsvolume te regelen in plaats van het mediavolume.\n\nHoud er rekening mee dat Volfix momenteel alleen werkt als het scherm aan staat.</string>
+    <string name="excluded_apps">Uitgesloten apps</string>
+    <string name="already_donated"><u>Ik heb al gedoneerd</u></string>
+    <string name="reject_donation"><u>Ik wil niet doneren</u></string>
+    <string name="consider_donating">Alle geïnstalleerde apps zullen hier verschijnen, maar overweeg om ons eerst een donatie te doen om dit project levend te houden.</string>
+    <string name="volfix_disabled_for_apps">Volfix is ​​uitgeschakeld terwijl de volgende apps geopend zijn:</string>
+    <string name="installed_apps">Geïnstalleerde apps:</string>
+    <string name="info">Info</string>
+    <string name="excluded_apps_info">Gebruik deze optie om de Volfix-service uit te schakelen terwijl een van de geselecteerde apps zichtbaar is.\n\nIn sommige apps wilt u misschien de volumeknoppen gebruiken zoals ze bedoeld zijn. In de Camera-app gebruikt u bijvoorbeeld de volumeknoppen om de zoom van de camera te bedienen en wilt u niet dat Volfix interfereert.</string>
+    <string name="app_recommendation">Ik gebruik deze app om het volume van beltoon en meldingen aan te passen, dus ik raad het je aan: %1$s</string>
+</resources>
